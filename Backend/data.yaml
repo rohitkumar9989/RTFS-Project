@@ -1,0 +1,5 @@
+train : C:\Users\rohit\Desktop\All_Language_programs\RTFS Project work\RTFSENV\train
+val : C:\Users\rohit\Desktop\All_Language_programs\RTFS Project work\RTFSENV\val
+
+nc : 2
+names : ["next", "prev"]
